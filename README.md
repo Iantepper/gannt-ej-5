@@ -14,6 +14,7 @@
 
 
 
+
 ```mermaid
 gantt
     title Proyecto de Generación de Informes - Weber Consultores
