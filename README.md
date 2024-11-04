@@ -23,9 +23,9 @@ gantt
     section Generación de Informes
     A- Determinar pantallas e informes del prototipo general    :a1, 04/11/2024, 2d
     B- Determinar contenidos de informes y pantallas           :after a1, 4d
-    C- Crear prototipos de los informes                          :after a1, 3d
-    D- Crear prototipos de las pantallas                        :after B1, 4d
-    E- Obtener retroalimentación de los prototipos de los informes :after b1, 1d
+    C- Crear prototipos de los informes                          :after b1, 3d
+    D- Crear prototipos de las pantallas                        :after b1, 4d
+    E- Obtener retroalimentación de los prototipos de los informes :after c1, 1d
     F- Obtener retroalimentación de los prototipos de las pantallas   :after d1, 2d
     G- Modificar los prototipos de los informes                  :after e1, 2d
     H- Modificar los prototipos de las pantallas                :after f1, 4d
